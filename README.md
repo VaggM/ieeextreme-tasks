@@ -1,6 +1,6 @@
 # IEEEXtreme Solved Tasks
 
-This repository includes all my IEEEXtreme solved tasks
+This repository includes all my IEEEXtreme solved tasks in Python
 from the CS Academy archive of past competitions.
 
 Check out [IEEEXtreme](https://ieeextreme.org/)!

@@ -1,18 +1,4 @@
-n = int(input())
-
-vilains = {}
-
-for i in range(n):
-
-    vilain = input().split()
-
-    name = vilain[0]
-    height = vilain[1]
-
-    if height not in vilains.keys():
-        vilains[height] = []
-
-    vilains[height].append(name)
-
-for key in vilains.keys():
-    print(vilains[key])
+n = 9
+listofzeros = [1, 3, 1, 5, 6]
+listofzeros.remove(1)
+print(listofzeros)
